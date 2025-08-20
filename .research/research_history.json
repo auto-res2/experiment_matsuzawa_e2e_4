@@ -6,5 +6,52 @@
     "RL diffusion models",
     "stochastic diffusion RL",
     "latent diffusion RL"
+  ],
+  "research_study_list": [
+    {
+      "title": "Training Diffusion Models with Reinforcement Learning"
+    },
+    {
+      "title": "Feedback Efficient Online Fine-Tuning of Diffusion Models"
+    },
+    {
+      "title": "Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization"
+    },
+    {
+      "title": "Feedback Efficient Online Fine-Tuning of Diffusion Models"
+    },
+    {
+      "title": "Training Diffusion Models with Reinforcement Learning"
+    },
+    {
+      "title": "Learning Multimodal Behaviors from Scratch with Diffusion Policy Gradient"
+    },
+    {
+      "title": "Feedback Efficient Online Fine-Tuning of Diffusion Models"
+    },
+    {
+      "title": "Training Diffusion Models with Reinforcement Learning"
+    },
+    {
+      "title": "Generating Behaviorally Diverse Policies with Latent Diffusion Models"
+    },
+    {
+      "title": "Thompson Sampling Efficiently Learns to Control Diffusion Processes"
+    },
+    {
+      "title": "Diffusion Spectral Representation for Reinforcement Learning"
+    },
+    {
+      "title": "Diffusion Actor-Critic with Entropy Regulator"
+    },
+    {
+      "title": "Efficient Planning with Latent Diffusion"
+    },
+    {
+      "title": "Reasoning with Latent Diffusion in Offline Reinforcement Learning"
+    },
+    {
+      "title": "Training Diffusion Models with Reinforcement Learning"
+    }
   ]
 }
